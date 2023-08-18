@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kerenyambura
 - 👀 I’m interested in Data Analysis.
-- 🌱 I’m currently creating a Data Analysis Portfolio for SQL, PowerBI and Python.
 - 💞️ I’m looking to collaborate on Data Analysis work.
 - 📫 How to reach me twitter @keren_wangombe, LinkedIn Keren Wang'ombe
 
